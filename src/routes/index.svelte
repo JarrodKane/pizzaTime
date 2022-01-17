@@ -12,6 +12,8 @@
       }
   }
 `;
+
+	export async function load({ params }) {}
 </script>
 
 <script lang="ts">
